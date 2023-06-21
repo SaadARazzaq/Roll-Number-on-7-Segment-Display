@@ -5,6 +5,13 @@
 
 This repo is focused on getting familiar with Digital Works 3.0 software to implement 7 segment display decoder.
 
+## Components Used
+
+- 7 Segmented Display
+- Switches
+- Voltage
+- Wiring
+
 ## Getting Started
 
 To run or simulate the this repo, follow these instructions:
@@ -15,4 +22,4 @@ To run or simulate the this repo, follow these instructions:
 
 ## Bonus Info
 
-This will help in understanding Digital Logic Design in practical 🙂🔥
+This will help in understanding Digital Logic Design in practical. Do not hesitate to play with it 🙂🔥
