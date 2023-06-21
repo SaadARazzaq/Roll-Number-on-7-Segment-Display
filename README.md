@@ -1,7 +1,6 @@
 # Roll Number on 7 Segment Display
  Illustrated my roll number on 7 segment display Using Digital Works 3.0
-## A Computer Networks Lab Semester Project
-
+ 
 ![seven segment display](https://github.com/SaadARazzaq/Roll-Number-on-7-Segment-Display/blob/main/Circuit%20Picture.png)
 
 This repo is focused on getting familiar with Digital Works 3.0 software to implement 7 segment display decoder.
